@@ -39,11 +39,11 @@ To run this project, you need to have a Java Development Kit (JDK) installed on 
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/chefcookscode/JavaCalculator.git
 
 ```
 ```
-cd your-repository-name
+cd JavaCalculator
 
 ```
 
